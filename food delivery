@@ -1,0 +1,12 @@
+# Food Delivery App Posters
+
+## Team
+-Padhu-Designer(canva)
+-Nandini-Developer(figma)
+-Megha-Project Manager(canva)
+
+## About
+Each member added their own poster in 'posters/' folder and created a pull request.
+
+## CI
+we have a GitHub workflow that says "Poster Uploaded Successfully" when a poster is pushed.
